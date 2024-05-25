@@ -35,7 +35,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "Jamshedpur , Jharkhand ",
   phoneNo: "+91 9471511949 ",
   email: "rupammahato593@gmail.com",
 };
